@@ -1,3 +1,4 @@
+# being a bit more efficient with some help from stack overflow
 from string import ascii_uppercase
 
 def total(word):
